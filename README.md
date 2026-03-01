@@ -46,6 +46,11 @@ c. Is tutoring frequency associated with reduced score decline?
 * Higher tutoring categories (6–8 sessions) showed instability due to small sample sizes
 * Tutoring emerges as the most actionable intervention variable among those analyzed
 
+## Visualizations
+
+### Q3 – Tutoring vs Improvement
+![Q3](images/q3.png)
+
 ## Conclusion
 While this dataset is observational and does not establish causation, tutoring frequency demonstrates the strongest practical association with improved outcomes. After visually controlling for motivation level, the tutoring pattern remained consistent, suggesting that the relationship is not solely explained by student motivation. This highlights tutoring frequency as a potential intervention lever in academic performance support strategies. 
 
