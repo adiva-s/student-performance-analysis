@@ -35,11 +35,13 @@ c. Is tutoring frequency associated with reduced score decline?
 
 ## Key Findings 
 ### Access to Resources
-* Minimal differences in improvement across resource levels
-* Association appears small relative to tutoring frequency
+* Minimal differences in score change across resource levels
+* Variation between low, medium, and high access is small (≈ <1 point difference)
+* Association appears weak relative to tutoring frequency
 ### Study Hours
 * Statistically significant but weak positive relationship with improvement ($R^2$ ≈ 0.19)
 * Study time explains a limited portion of variation in score improvement
+* One high-study outlier (~42 hours) shows substantial decline, suggesting that extreme study time does not guarantee improvemen
 ### Tutoring Frequency
 * Moderate tutoring (3–5 sessions) shows the strongest association with reduced score decline
 * Improvement trend persists across motivation levels
@@ -47,9 +49,20 @@ c. Is tutoring frequency associated with reduced score decline?
 * Tutoring emerges as the most actionable intervention variable among those analyzed
 
 ## Visualizations
+### Q1 – Resources vs Improvement
+<p align="left">
+  <img src="images/q1.png" width="700">
+</p>
+
+### Q2 – Study Hours vs Improvement
+<p align="left">
+  <img src="images/q2.png" width="700">
+</p>
 
 ### Q3 – Tutoring vs Improvement
-![Q3](images/q3.png)
+<p align="left">
+  <img src="images/q3.png" width="700">
+</p>
 
 ## Conclusion
 While this dataset is observational and does not establish causation, tutoring frequency demonstrates the strongest practical association with improved outcomes. After visually controlling for motivation level, the tutoring pattern remained consistent, suggesting that the relationship is not solely explained by student motivation. This highlights tutoring frequency as a potential intervention lever in academic performance support strategies. 
