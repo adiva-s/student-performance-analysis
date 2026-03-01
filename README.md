@@ -38,7 +38,7 @@ c. Is tutoring frequency associated with reduced score decline?
 * Minimal differences in improvement across resource levels
 * Association appears small relative to tutoring frequency
 ### Study Hours
-* Statistically significant but weak positive relationship with improvement (R^2 ≈ 0.19)
+* Statistically significant but weak positive relationship with improvement ($R^2$ ≈ 0.19)
 * Study time explains a limited portion of variation in score improvement
 ### Tutoring Frequency
 * Moderate tutoring (3–5 sessions) shows the strongest association with reduced score decline
